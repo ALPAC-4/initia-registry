@@ -18,7 +18,7 @@ const info: Chain = {
         denom:
           "l2/1666ede2bf1985307a86de36a6b78411cbf1edeffc2ac569e6a7b2f8753db4bb",
         fixed_min_gas_price: 0.15,
-        low_gas_price: 0.2,
+        low_gas_price: 0.3,
         average_gas_price: 0.3,
         high_gas_price: 0.4,
       },
@@ -62,13 +62,11 @@ const info: Chain = {
   ],
   images: [
     {
-      png: "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/civitia/images/civitia.png",
-      svg: "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/civitia/images/civitia.svg",
+      png: "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/civitia.png",
     },
   ],
   logo_URIs: {
-    png: "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/civitia/images/civitia.png",
-    svg: "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/civitia/images/civitia.svg",
+    png: "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/civitia.png",
   },
   metadata: {
     op_bridge_id: "100",
