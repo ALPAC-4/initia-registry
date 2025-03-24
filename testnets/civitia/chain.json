@@ -16,7 +16,7 @@
       {
         "denom": "l2/1666ede2bf1985307a86de36a6b78411cbf1edeffc2ac569e6a7b2f8753db4bb",
         "fixed_min_gas_price": 0.15,
-        "low_gas_price": 0.2,
+        "low_gas_price": 0.3,
         "average_gas_price": 0.3,
         "high_gas_price": 0.4
       }
